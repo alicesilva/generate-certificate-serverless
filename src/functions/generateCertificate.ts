@@ -122,9 +122,3 @@ export const handle = async (event) => {
     }
   }
 }
-
-/**
- * AKIAVAQ6PDQJDCG5YAKO
- *
- * +iKYlQTiyywcYI0u2s/llq5jC3vw5Rp1SXV/FVNB
- */
